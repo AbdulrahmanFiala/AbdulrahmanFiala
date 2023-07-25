@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Abdulrahman Fiala a software engineer interested in blockchain and smart contract development
 
 <!--
 **AbdulrahmanFiala/AbdulrahmanFiala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
