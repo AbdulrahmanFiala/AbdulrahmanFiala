@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer.</h3>
 - 📫 How to reach me **AbdulrahmanFiala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19A7J1sNWXShhOUl8KJ1aprLToEVTJtoo/view?usp=sharing](https://drive.google.com/file/d/19A7J1sNWXShhOUl8KJ1aprLToEVTJtoo/view?usp=sharing)
+- 📄 Know about my experiences [My CV](http://tinyurl.com/bdf2aem9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
