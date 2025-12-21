@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I'm a Software Engineer | Back-End Engineer | Java Spring Developer 」
+    「 I'm a Software Engineer | Backend Engineer | Java Spring Engineer | Blockchain Engineer 」
     <br>
     <br>
   </samp>
@@ -39,16 +39,17 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  
+	
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
+  
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 
 </div>
 
@@ -58,9 +59,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- :computer: **I am a Dynamic Software Engineer and Backend Developer with a robust computer science foundation, excelling in Java and Spring frameworks.**
+- :computer: **I am a Dynamic Software Engineer with a robust computer science foundation.**
 
-- :student: **Experienced Java Developer proficient in Spring Boot and Spring Core with a strong foundation in software development principles.**
+- :student: **Experienced Backend Engineer & Blockchain Engineer with experience building scalable microservices and decentralized applications.**
 
 - :blue_book: **Skilled in building web applications, RESTful APIs, and database integration using both SQL and NoSQL databases.**
 
@@ -77,11 +78,11 @@
 - Programming Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js" />
+    <img src="https://skillicons.dev/icons?i=java,python,solidity,rust,javascript,typescript" />
   </a>
 </p>
 
-- Backend
+- Backend Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,django" />
@@ -102,17 +103,17 @@
   </a>
 </p>
 
-- CI/CD
+- Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,git,github,gitlab" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,visualstudio,postman,bash,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=idea,visualstudio,postman,bash" />
   </a>
 </p>
 
@@ -124,11 +125,6 @@
              <samp> Github Stats </samp>
 </h2>
 
-<p align="center">
-  <a href="https://github.com/abdulrahmanfiala">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahmanfiala&theme=radical" alt="Abdulrahman Fiala's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/abdulrahmanfiala">
@@ -143,11 +139,6 @@
   <br/>
 </a>
 
-![Abdulrahman Fiala's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanfiala&custom_title=Abdulrahman%20Fiala's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abdulrahmanfiala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
